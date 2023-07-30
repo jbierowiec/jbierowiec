@@ -1,7 +1,8 @@
-- Hello Everyone! I’m @jbierowiec
-- I’m currently a student obtaining my Bachelor's in Engineering Physics with a concentration in Electrical Engineering and my Master's in Computer Science with a concetration in Software Engineering at Fordham University
-- I'm interested in collaborating on various programming or research projects regarding Web Development, Aritifical Intelligence, Computational Physics, and Robotics
-- You can reach me at jbierowiec@fordham.edu
+Hello Everyone! I’m @jbierowiec
+
+I’m currently a student obtaining my Bachelor's in Engineering Physics with a concentration in Electrical Engineering and my Master's in Computer Science with a concetration in Software Engineering at Fordham University
+I'm interested in collaborating on various programming or research projects regarding Web Development, Aritifical Intelligence, Computational Physics, and Robotics
+You can reach me at jbierowiec@fordham.edu
 
 <!---
 jbierowiec/jbierowiec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
