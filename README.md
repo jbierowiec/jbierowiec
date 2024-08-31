@@ -1,6 +1,6 @@
 Hello Everyone! I’m @jbierowiec
 
-I’m currently a student obtaining my Bachelor's in Engineering Physics with a concentration in Electrical Engineering and my Master's in Computer Science with a concetration in Software Engineering
+I’m a student who has a Bachelor's in Engineering Physics with a concentration in Electrical Engineering and currently obtaining my Master's in Computer Science with a concetration in Software Engineering
 
 I'm interested in collaborating on various programming or research projects regarding Website Development, Computational Physics, and Robotics
 
