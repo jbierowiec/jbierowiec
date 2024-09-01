@@ -1,10 +1,10 @@
 Hello Everyone! I’m @jbierowiec
 
-I’m a student who has a Bachelor's in Engineering Physics with a concentration in Electrical Engineering and currently obtaining my Master's in Computer Science with a concetration in Software Engineering
+I’m a student who has a Bachelor's in Engineering Physics with a concentration in Electrical Engineering and currently obtaining my Master's in Computer Science with a concetration in Software Engineering.
 
-I'm interested in collaborating on various programming or research projects regarding Website Development, Computational Physics, and Robotics
+I'm interested in collaborating on various programming or research projects regarding Website Development, Computational Physics, and Robotics.
 
-You can reach me at jbierowiec3@gmail.com
+You can reach find me at [Jan C. Bierowiec](https://jancbierowiec.netlify.app).
 
 <!---
 jbierowiec/jbierowiec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
