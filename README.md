@@ -4,7 +4,7 @@ I’m a student who has a Bachelor's in Engineering Physics with a concentration
 
 I'm interested in collaborating on various programming or research projects regarding Website Development, Computational Physics, and Robotics.
 
-You can reach find me at [Jan C. Bierowiec](https://jancbierowiec.netlify.app).
+You can find me at [Jan C. Bierowiec](https://jancbierowiec.netlify.app).
 
 <!---
 jbierowiec/jbierowiec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
